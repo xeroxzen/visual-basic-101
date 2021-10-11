@@ -1,0 +1,16 @@
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\bin\Debug\net5.0\ForNextIteration.exe
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\bin\Debug\net5.0\ForNextIteration.deps.json
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\bin\Debug\net5.0\ForNextIteration.runtimeconfig.json
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\bin\Debug\net5.0\ForNextIteration.runtimeconfig.dev.json
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\bin\Debug\net5.0\ForNextIteration.dll
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\bin\Debug\net5.0\ref\ForNextIteration.dll
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\bin\Debug\net5.0\ForNextIteration.pdb
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.vbproj.AssemblyReference.cache
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.AssemblyInfoInputs.cache
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.AssemblyInfo.vb
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.vbproj.CoreCompileInputs.cache
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.dll
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ref\ForNextIteration.dll
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.pdb
+C:\Users\andil\Desktop\code\vb.net\ForNextIteration\obj\Debug\net5.0\ForNextIteration.genruntimeconfig.cache
