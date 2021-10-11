@@ -1,0 +1,15 @@
+C:\Users\andil\Desktop\code\vb.net\Decisions\bin\Debug\net5.0\Decisions.exe
+C:\Users\andil\Desktop\code\vb.net\Decisions\bin\Debug\net5.0\Decisions.deps.json
+C:\Users\andil\Desktop\code\vb.net\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.json
+C:\Users\andil\Desktop\code\vb.net\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.dev.json
+C:\Users\andil\Desktop\code\vb.net\Decisions\bin\Debug\net5.0\Decisions.dll
+C:\Users\andil\Desktop\code\vb.net\Decisions\bin\Debug\net5.0\ref\Decisions.dll
+C:\Users\andil\Desktop\code\vb.net\Decisions\bin\Debug\net5.0\Decisions.pdb
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfoInputs.cache
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfo.vb
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\Decisions.vbproj.CoreCompileInputs.cache
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\Decisions.dll
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\ref\Decisions.dll
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\Decisions.pdb
+C:\Users\andil\Desktop\code\vb.net\Decisions\obj\Debug\net5.0\Decisions.genruntimeconfig.cache
