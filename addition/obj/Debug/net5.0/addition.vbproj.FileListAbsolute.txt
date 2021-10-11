@@ -1,0 +1,16 @@
+C:\Users\andil\Desktop\code\vb.net\addition\bin\Debug\net5.0\addition.exe
+C:\Users\andil\Desktop\code\vb.net\addition\bin\Debug\net5.0\addition.deps.json
+C:\Users\andil\Desktop\code\vb.net\addition\bin\Debug\net5.0\addition.runtimeconfig.json
+C:\Users\andil\Desktop\code\vb.net\addition\bin\Debug\net5.0\addition.runtimeconfig.dev.json
+C:\Users\andil\Desktop\code\vb.net\addition\bin\Debug\net5.0\addition.dll
+C:\Users\andil\Desktop\code\vb.net\addition\bin\Debug\net5.0\ref\addition.dll
+C:\Users\andil\Desktop\code\vb.net\addition\bin\Debug\net5.0\addition.pdb
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.vbproj.AssemblyReference.cache
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.AssemblyInfoInputs.cache
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.AssemblyInfo.vb
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.vbproj.CoreCompileInputs.cache
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.dll
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\ref\addition.dll
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.pdb
+C:\Users\andil\Desktop\code\vb.net\addition\obj\Debug\net5.0\addition.genruntimeconfig.cache

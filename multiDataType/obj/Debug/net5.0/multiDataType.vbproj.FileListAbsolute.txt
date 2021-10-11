@@ -1,0 +1,16 @@
+C:\Users\andil\Desktop\code\vb.net\multiDataType\bin\Debug\net5.0\multiDataType.exe
+C:\Users\andil\Desktop\code\vb.net\multiDataType\bin\Debug\net5.0\multiDataType.deps.json
+C:\Users\andil\Desktop\code\vb.net\multiDataType\bin\Debug\net5.0\multiDataType.runtimeconfig.json
+C:\Users\andil\Desktop\code\vb.net\multiDataType\bin\Debug\net5.0\multiDataType.runtimeconfig.dev.json
+C:\Users\andil\Desktop\code\vb.net\multiDataType\bin\Debug\net5.0\multiDataType.dll
+C:\Users\andil\Desktop\code\vb.net\multiDataType\bin\Debug\net5.0\ref\multiDataType.dll
+C:\Users\andil\Desktop\code\vb.net\multiDataType\bin\Debug\net5.0\multiDataType.pdb
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.vbproj.AssemblyReference.cache
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.AssemblyInfoInputs.cache
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.AssemblyInfo.vb
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.vbproj.CoreCompileInputs.cache
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.dll
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\ref\multiDataType.dll
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.pdb
+C:\Users\andil\Desktop\code\vb.net\multiDataType\obj\Debug\net5.0\multiDataType.genruntimeconfig.cache
