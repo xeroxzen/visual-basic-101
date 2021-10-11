@@ -6,18 +6,23 @@ Module Program
         Dim userInput As String
         userInput = Console.ReadLine()
 
+        'Let's have a message variable
+        Dim message As String
+
         If userInput = "1" Then
-            Console.WriteLine("You have won a car!")
-            Console.ReadLine()
+            message = "You have won a car!"
+
         ElseIf userInput = "2" Then
-            Console.WriteLine("You have won a boat!")
-            Console.ReadLine()
+            message = "You have won a boat!"
+
         ElseIf userInput = "3" Then
-            Console.WriteLine("You have won a cat!")
-            Console.ReadLine()
+            message = "You have won a cat!"
+
         Else
-            Console.WriteLine("Sorry, your input wasn't understood!")
-            Console.ReadLine()
+            message = "Sorry, your input wasn't understood!"
+
         End If
+        Console.WriteLine(message)
+        Console.ReadLine()
     End Sub
 End Module
