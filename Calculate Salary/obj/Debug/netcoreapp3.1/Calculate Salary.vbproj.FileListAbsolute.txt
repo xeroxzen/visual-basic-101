@@ -1,0 +1,14 @@
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\bin\Debug\netcoreapp3.1\Calculate Salary.exe
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\bin\Debug\netcoreapp3.1\Calculate Salary.deps.json
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\bin\Debug\netcoreapp3.1\Calculate Salary.runtimeconfig.json
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\bin\Debug\netcoreapp3.1\Calculate Salary.runtimeconfig.dev.json
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\bin\Debug\netcoreapp3.1\Calculate Salary.dll
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\bin\Debug\netcoreapp3.1\Calculate Salary.pdb
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.vbproj.AssemblyReference.cache
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.AssemblyInfoInputs.cache
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.AssemblyInfo.vb
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.vbproj.CoreCompileInputs.cache
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.dll
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.pdb
+C:\Users\andil\Desktop\code\school\visual-basic-101\Calculate Salary\obj\Debug\netcoreapp3.1\Calculate Salary.genruntimeconfig.cache
